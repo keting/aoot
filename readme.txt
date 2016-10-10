@@ -6,3 +6,5 @@ insert a line
 newline
 
 fix bug 334455
+
+insert a line by master
